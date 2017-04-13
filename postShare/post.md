@@ -1,5 +1,6 @@
 title: 二手发布前端业务讲解
 speaker: 李文文
+url:https://github.com/leeww/nodeppt/blob/master/postShare/post.md
 
 [slide]
 # 二手发布前端业务讲解
@@ -47,7 +48,7 @@ M | svn://10.9.192.100/post/m_refactor_new | git@gitlab.58corp.com:wangguanjia/Z
 
 [slide data-transition="vertical3d"]
 ## 以PC发布为例，组件化目录结构
-![以PC发布为例，组件化目录结构](/img/directory_structure.png)
+![以PC发布为例，组件化目录结构](https://github.com/leeww/nodeppt/blob/master/postShare/img/directory_structure.png)
 
 [slide data-transition="horizontal3d"]
 ## 常用打包命令 
